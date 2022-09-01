@@ -1,0 +1,657 @@
+{
+  "mod_elements": [
+    {
+      "name": "Gamerj57Block",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerj_57_block"
+    },
+    {
+      "name": "EssenceOfGamerJ57",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "essence_of_gamer_j_57"
+    },
+    {
+      "name": "GamerJ57Domain",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_j_57_domain"
+    },
+    {
+      "name": "GamerJ57Gun",
+      "type": "rangeditem",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_j_57_gun"
+    },
+    {
+      "name": "Gamergunrecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamergunrecipe"
+    },
+    {
+      "name": "GamerJ57Drill",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_j_57_drill"
+    },
+    {
+      "name": "GamerJKOCannon",
+      "type": "rangeditem",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_jko_cannon"
+    },
+    {
+      "name": "GamerJ57Knife",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_j_57_knife"
+    },
+    {
+      "name": "Gamerdrillrecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerdrillrecipe"
+    },
+    {
+      "name": "Kocannonrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kocannonrecipe"
+    },
+    {
+      "name": "Gamerjkniferecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerjkniferecipe"
+    },
+    {
+      "name": "Gamerjultrasmasher",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerjultrasmasher"
+    },
+    {
+      "name": "Smasherrecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smasherrecipe"
+    },
+    {
+      "name": "Gamerbullet",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerbullet"
+    },
+    {
+      "name": "BulletJrecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bullet_jrecipe"
+    },
+    {
+      "name": "Gamerjblockrecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerjblockrecipe"
+    },
+    {
+      "name": "GamerK57Block",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_k_57_block"
+    },
+    {
+      "name": "EssenceOfGamerK57",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "essence_of_gamer_k_57"
+    },
+    {
+      "name": "GamerKblockrecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_kblockrecipe"
+    },
+    {
+      "name": "Gamer57Bricks",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_57_bricks"
+    },
+    {
+      "name": "Gamer57brickrecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_57brickrecipe"
+    },
+    {
+      "name": "GamerKhell",
+      "type": "biome",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_khell"
+    },
+    {
+      "name": "Gamer57Balenced",
+      "type": "biome",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_57_balenced"
+    },
+    {
+      "name": "TheGamer57Dimension",
+      "type": "dimension",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_gamer_57_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Keyrecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "keyrecipe"
+    },
+    {
+      "name": "GamerK57Arrows",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_k_57_arrows"
+    },
+    {
+      "name": "GamerKbow",
+      "type": "rangeditem",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_kbow"
+    },
+    {
+      "name": "Gamerkarrowrecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerkarrowrecipe"
+    },
+    {
+      "name": "Gamerkbowrecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerkbowrecipe"
+    },
+    {
+      "name": "Gamerj57blessing",
+      "type": "enchantment",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamerj_57blessing"
+    },
+    {
+      "name": "GamerJflower",
+      "type": "plant",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_jflower"
+    },
+    {
+      "name": "GamerJ57Ichor",
+      "type": "fluid",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_j_57_ichor",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "GamerKichor",
+      "type": "fluid",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_kichor",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "GUNOfDoom",
+      "type": "painting",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gun_of_doom"
+    },
+    {
+      "name": "Gamercheckers",
+      "type": "painting",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamercheckers"
+    },
+    {
+      "name": "Somethin",
+      "type": "painting",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "somethin"
+    },
+    {
+      "name": "StrongerMonstersRemix",
+      "type": "musicdisc",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stronger_monsters_remix"
+    },
+    {
+      "name": "JacobMoosicrecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jacob_moosicrecipe"
+    },
+    {
+      "name": "BegoneThotinator",
+      "type": "rangeditem",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "begone_thotinator"
+    },
+    {
+      "name": "Thotinaterrecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thotinaterrecipe"
+    },
+    {
+      "name": "GamerJ57Brew",
+      "type": "potion",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_j_57_brew"
+    },
+    {
+      "name": "GamerK57Broth",
+      "type": "potion",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_k_57_broth"
+    },
+    {
+      "name": "UniversalCollapse",
+      "type": "musicdisc",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "universal_collapse"
+    },
+    {
+      "name": "GamerJ57Apple",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_j_57_apple"
+    },
+    {
+      "name": "GamerBrewrecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_brewrecipe"
+    },
+    {
+      "name": "GamerK57Apple",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_k_57_apple"
+    },
+    {
+      "name": "Brothrecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brothrecipe"
+    },
+    {
+      "name": "Japplerecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "japplerecipe"
+    },
+    {
+      "name": "Kapplerecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kapplerecipe"
+    },
+    {
+      "name": "EnchantedGapple",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchanted_gapple"
+    },
+    {
+      "name": "Debugstickrecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "debugstickrecipe"
+    },
+    {
+      "name": "NetherStarExtractor",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_star_extractor"
+    },
+    {
+      "name": "Extractorrecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extractorrecipe"
+    },
+    {
+      "name": "Getstar",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getstar"
+    },
+    {
+      "name": "GeorgeDont",
+      "type": "painting",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "george_dont"
+    },
+    {
+      "name": "Bottlesmol",
+      "type": "painting",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bottlesmol"
+    },
+    {
+      "name": "Kieran",
+      "type": "painting",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kieran"
+    },
+    {
+      "name": "Lplusratio",
+      "type": "painting",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lplusratio"
+    },
+    {
+      "name": "BigMan",
+      "type": "painting",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_man"
+    },
+    {
+      "name": "Consumeroftime",
+      "type": "painting",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "consumeroftime"
+    },
+    {
+      "name": "Fnaf3am",
+      "type": "painting",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fnaf_3am"
+    },
+    {
+      "name": "Animalcross",
+      "type": "painting",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "animalcross"
+    },
+    {
+      "name": "Loooooooong",
+      "type": "painting",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "loooooooong"
+    },
+    {
+      "name": "Minecraftinmcinmc",
+      "type": "painting",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minecraftinmcinmc"
+    },
+    {
+      "name": "UnholyInsurgency",
+      "type": "musicdisc",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unholy_insurgency"
+    },
+    {
+      "name": "DoGdiscrecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "do_gdiscrecipe"
+    },
+    {
+      "name": "Profanedisc",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "profanedisc"
+    },
+    {
+      "name": "GamerJ57trade",
+      "type": "villagertrade",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamer_j_57trade"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "jacobmusic",
+      "files": [
+        "battle_theme.epic"
+      ],
+      "category": "record",
+      "subtitle": "Epic music"
+    },
+    {
+      "name": "universalcollapse",
+      "files": [
+        "793443_universal-collapse"
+      ],
+      "category": "record",
+      "subtitle": "DoG phase 2"
+    },
+    {
+      "name": "unholyinsurgency",
+      "files": [
+        "793089_unholy-insurgency"
+      ],
+      "category": "record",
+      "subtitle": "Providence moment"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.gamerj_mod_of_epicness.gamer_jko_cannon": "GamerJKO Cannon",
+      "item.minecraft.potion.effect.gamer_k_57_broth": "Potion GamerK57 Broth",
+      "item.gamerj_mod_of_epicness.gamer_k_57_apple": "Gamer K 5 7 Apple",
+      "block.gamerj_mod_of_epicness.gamerj_57_block": "Gamerj57 Block",
+      "item.gamerj_mod_of_epicness.essence_of_gamer_j_57": "Essence Of GamerJ57",
+      "item.gamerj_mod_of_epicness.gamer_j_57_drill": "GamerJ57 Drill",
+      "item.gamerj_mod_of_epicness.stronger_monsters_remix": "Stronger Monsters Remix",
+      "biome.gamerj_mod_of_epicness.gamer_57_balenced": "Gamer 5 7 Balenced",
+      "biome.gamerj_mod_of_epicness.gamer_j_57_domain": "GamerJ57 Domain",
+      "block.gamerj_mod_of_epicness.gamer_kichor": "GamerK57\u0027s Ichor",
+      "item.minecraft.splash_potion.effect.gamer_k_57_broth": "Splash GamerK57Broth",
+      "item.minecraft.tipped_arrow.effect.gamer_k_57_broth": "Arrow of GamerK57Broth",
+      "item.minecraft.splash_potion.effect.gamer_j_57_brew": "Splash Potion of GamerJ57 Brew",
+      "item.gamerj_mod_of_epicness.gamer_kbow": "Gamer Kbow",
+      "fluid.gamerj_mod_of_epicness.gamer_kichor": "GamerK57\u0027s Ichor",
+      "item.gamerj_mod_of_epicness.nether_star_extractor": "Nether Star Extractor",
+      "block.gamerj_mod_of_epicness.gamer_57_bricks": "Gamer57 Bricks",
+      "item.gamerj_mod_of_epicness.gamer_k_57_arrows": "GamerK57 Arrow",
+      "subtitles.unholyinsurgency": "Providence moment",
+      "item.gamerj_mod_of_epicness.gamerjultrasmasher": "Gamerj ultra smasher",
+      "item.gamerj_mod_of_epicness.gamer_kichor_bucket": "GamerK57\u0027s Ichor Bucket",
+      "item.gamerj_mod_of_epicness.universal_collapse": "Universal Collapse (DoG phase 2)",
+      "item.gamerj_mod_of_epicness.essence_of_gamer_k_57": "Essence Of Gamer K 5 7",
+      "item.minecraft.lingering_potion.effect.gamer_k_57_broth": "Lingering GamerK57Broth",
+      "block.gamerj_mod_of_epicness.gamer_k_57_block": "GamerK57 Block",
+      "item.gamerj_mod_of_epicness.gamerbullet": "Gamerbullet",
+      "subtitles.jacobmusic": "Epic music",
+      "item.gamerj_mod_of_epicness.begone_thotinator": "The Begone Thotinator",
+      "item.gamerj_mod_of_epicness.gamer_j_57_knife": "GamerJ57 Knife",
+      "biome.gamerj_mod_of_epicness.gamer_khell": "Gamer K hell",
+      "item.gamerj_mod_of_epicness.gamer_j_57_ichor_bucket": "GamerJ57 Ichor Bucket",
+      "enchantment.gamerj_mod_of_epicness.gamerj_57blessing": "Gamerj57\u0027s blessing",
+      "item.gamerj_mod_of_epicness.unholy_insurgency.desc": "Unholy Insurgency By DM DOKURO",
+      "item.gamerj_mod_of_epicness.universal_collapse.desc": "Universal Collapse By DM DOKURO",
+      "item.gamerj_mod_of_epicness.unholy_insurgency": "Unholy Insurgency ( Providence\u0027s theme)",
+      "item.minecraft.potion.effect.gamer_j_57_brew": "Potion of GamerJ57 Brew",
+      "block.gamerj_mod_of_epicness.gamer_j_57_ichor": "GamerJ57\u0027s Ichor",
+      "item.gamerj_mod_of_epicness.stronger_monsters_remix.desc": "Made by my friend ",
+      "item.gamerj_mod_of_epicness.gamer_j_57_gun": "GamerJ57 Gun",
+      "item.minecraft.lingering_potion.effect.gamer_j_57_brew": "Lingering Potion of GamerJ57 Brew",
+      "block.gamerj_mod_of_epicness.gamer_jflower": "Gamer Jflower",
+      "fluid.gamerj_mod_of_epicness.gamer_j_57_ichor": "GamerJ57\u0027s Ichor",
+      "item.gamerj_mod_of_epicness.gamer_j_57_apple": "Gamer J 5 7 Apple",
+      "item.gamerj_mod_of_epicness.the_gamer_57_dimension": "The key to the Gamer57 dimension",
+      "item.minecraft.tipped_arrow.effect.gamer_j_57_brew": "Arrow of GamerJ57 Brew",
+      "subtitles.universalcollapse": "DoG phase 2"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "gamerj_mod_of_epicness",
+    "modName": "gamerj57 mod of epicness",
+    "version": "1.0.0",
+    "author": "katem, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.gamerjmodofepicness",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
